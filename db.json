@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Dev Jr",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Criando projeto com react.js",
+          "cost": "2000",
+          "description": "Criando projeto completo com react.js  ",
+          "id": "463ce2f6-efd4-4692-80fe-305c33c0470f"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Dev Pleno",
+      "budget": "6000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
